@@ -10,6 +10,8 @@ namespace Kaa
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello");
+            Console.WriteLine(kk);
         }
     }
 }
